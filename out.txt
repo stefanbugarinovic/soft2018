@@ -1,0 +1,12 @@
+Stefan Bugarinovic RA22-2014
+file	sum
+video-0.avi	9
+video-1.avi	61
+video-2.avi	52
+video-3.avi	54
+video-4.avi	45
+video-5.avi	44
+video-6.avi	64
+video-7.avi	54
+video-8.avi	65
+video-9.avi	67
